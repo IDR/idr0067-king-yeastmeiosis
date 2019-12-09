@@ -36,11 +36,11 @@ columns:
   - name: Experimental Condition [Imaging Type]
     clientname: Imaging Type
     include: true
-  - name: Channels
-    clientname: Channels
-    include: true
   - name: Comment [Image File Type]
     clientname: Image File Type
+    include: true
+  - name: Channels
+    clientname: Channels
     include: true
   - name: Comment [Experimental Conclusion]
     clientname: Experimental Conclusion
